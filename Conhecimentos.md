@@ -29,9 +29,11 @@ Se o investimento é menor que a inflação você acaba perdendo o poder de comp
 ## Qual a diferença entre a renda fixa e a renda variável?
 A previsibilidade do rendimento.
 
-No investimento de renda fixa o investidor empresta dinheiro a uma instituição(bancos) e cobra juros. Além disso o investidor já conhece na hora do investimento a regra de rentabilidade e como receberá os juros.
+No investimento de renda fixa o investidor empresta dinheiro a uma instituição(bancos, financeira ou governo) para poder financear seus projetos e negócios e cobra juros em cima da quantidade emprestada. Além disso o investidor já conhece na hora do investimento a regra de rentabilidade e como receberá os juros.
 
 No investimento de renda variável o investidor compra parte de um negócio, assim os preços variam conforme seus resultados e as espectativas dos investidores. Não há como garantir o investimento.
+
+Quanto mais conservador for, é recomendado possuir mais investimentos em renda fixa, quanto mais arrojado, mais investimento em renda variável.
 
 ## O que são esses juros?
 Remuneração que recebe ou paga ao emprestar dinheiro ou tomar dinheiro emprestado.
