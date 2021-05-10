@@ -1,5 +1,5 @@
 # Renda variável
-Podem variar ao decorrer do tempo
+Podem variar ao decorrer do tempo, não consegue mensurar o rendimento na hora da aplicação.
 
 Entra no capital do emissor, direta ou indiretamente e sua rentabilidade depende do sucesso ou fracasso da empresa.
 
@@ -20,6 +20,11 @@ Para quem nunca comprou ações, começar por fundos multimercados é uma boa op
 
 São comprados em lotes, é possível comprar separado com os mercados fracionários.
 
+# Mercado fracionário
+A maioria das ações é possivel realizar a compra em lotes, ou em frações.
+
+Lotes normalmente é comprado 10 por vez, e fracionário pode ter ou não variação por comprar em quantidade menores, dependendo da ação.
+
 # Principal vantagens
 - Possibilidade de obter um retorno maior do que a renda fixa.
 - Variedade enorme de ativos
@@ -29,6 +34,18 @@ São comprados em lotes, é possível comprar separado com os mercados fracioná
 - Não possui garantia
 - Oscila bastante igual o mercado de ações
 
+# Tipos de operações
+## Day trade
+Compra uma ação e vende no mesmo dia apostando na valorização no curtissimo prazo.
+
+É aplicado o imposto de renda em cima da rentabilidade, porém dependendo do rentabilidade pode valer a pena.
+
+## Swing trade
+Curta e médio prazo.
+
+## Buy and hold
+Longo prazo, confiando no crescimento da empresa a longo prazo.
+
 # Produtos que se encaixam a renda variável
 - Mercado de Ações
 - Fundos imobiliarios (FII)
@@ -36,6 +53,13 @@ São comprados em lotes, é possível comprar separado com os mercados fracioná
 - Opções (Papeis que te dão direito de comprar ou vender ações)
 - Fundos cambiais : Contratos ou minicontratose futuro de dolar
 - BDRs: 
+
+# ETF (Fundos de futuros ou indices) (Exchange traded funds)
+Fundo que é vendido como uma ação (Comprando um ETF é investido em várias ações ao mesmo tempo)
+
+Existem vários tipos de conjuntos de ações, o mais conhecido e mais negociado é o BOVA11, pois ele acompanha o indice bovespa.
+
+Existe uma taxa de administração que é cobrado nesses etfs, porém é bem baixa comparada ao outros fundos.
 
 # Envolvidos
 - CVM (Comissão de valores imobiliarios): Altarquia do governo responsavel por regulamentar julgar e punir agentes de mercado quando as regras não são seguidas.

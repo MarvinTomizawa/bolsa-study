@@ -16,20 +16,8 @@ Aumento generalizado no nivel dos preços da economia.
 ## Taxa CDI
 Certificado de Depósito Interbancário, título emitido pelos bancos com o objetivo de levantar capital para regularizar o caixa diário, essa taxa foi reaproveitada para ser utilizada em alguns investimentos como a taxa que é recebida no rendimento.
 
-Utilizado entre os bancos para fazerem emprestimos entre si, pois no final do dia todos os bancos devem possuir um saldo positivo ou zerado (Regra definida pelo banco central).
-
-Bancos que ficam no negativo pegam dinheiro emprestado de bancos que ficam positivo, utilizando esse CDI como juros entre eles, (É um juros mais barato do que os que eles cobram quando se pega dinheiro emprestado do banco).
-
-Em alguns casos, o volume financeiro de saques pode superar o de depósitos, fazendo com que o saldo de uma instituição fique negativo.
-
-Quando isso acontece, o banco pode tomar um empréstimo com outro para manter o seu caixa positivo. Para isso, é emitido um CDI. 
-
-A operação garante que o mercado bancário tenha maior fluidez, já que as instituições podem se ajudar entre si. 
-
-Além disso, o CDI auxilia o banco a garantir o cumprimento de todos os seus compromissos e, dessa forma, proteger seus correntistas. 
-
-Vale dizer ainda que as operações com CDI que acontecem à noite (chamadas de overnight) ocorrem no Open Market, que é restrito às instituições financeiras.
-
+## Explicada em:
+- [Indices](Indicies.md)
 # Taxa DI
 Média entre todos os CDIs em um período
 
@@ -38,15 +26,14 @@ Diariamente, a taxa é calculada e divulgada pela Cetip
 Em geral, ela segue de perto a Taxa Selic. Portanto, qualquer variação na taxa básica de juros da economia se reflete no CDI.
 
 ### Explicado em:
+- [Indices](Indicies.md)
 <br />
 
 ## Taxa Selic
 Taxa de juros básica da economia. Serve de referencia para outras taxas de juros do mercado.
 
-Definida pelo COPOM.
-
-Utilizada para calcular a rentabilidade atual da poupança
 ### Explicado em:
+- [Indices](Indicies.md)
 <br />
 
 
@@ -60,7 +47,6 @@ Criado pelo banco central do brasil, define as taixas selics de acordo com a inf
 
 ## IPCA (Indice nacional de Preços ao Consumidor Amplo)
 Medido mensalmente pelo ibge para verificar a varição de bens(alimentação, bebdias, transporte etc..) ao consumidor final.
-
 A partir desse indice podemos verificar como está a inflação no mercado. Também influencia em alguns dos titulos do tesouro direto.
 
 ### Explicado em:
@@ -162,5 +148,26 @@ Emprestimo de dinheiro para empresas privadas.
 <br />
 
 # CRI
+Certificado de recebiveis imobiliarios, mesma coisa que LCI porém por meio de uma companhia securitizadora, e não pelo banco.
+E não possui segurança pelo FGC.
+
+### Explicado em:
+- [Renda fixa](RendaFixa.md)
+<br />
 
 # CRA
+Certificado de recebiveis de agronegocio, mesma coisa que LCA porém por meio de uma companhia securitizadora, e não pelo banco.
+E não possui segurança pelo FGC.
+
+### Explicado em:
+- [Renda fixa](RendaFixa.md)
+<br />
+
+# ESG
+Enviroment, social and governance. Empresas sustentaveis, transparentes e em prol ao meio ambiente.
+
+Ocilações tendem a ser menores do que outras no mesmo setor.
+
+### Explicado em:
+- [Renda fixa](RendaFixa.md)
+<br />

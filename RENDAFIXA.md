@@ -97,9 +97,15 @@ Não possuí proteção do FGC.
 ## Fundos de renda fixa
 São uma carteira feita por varios produtos de renda fixa (Titulos publicos e privados), onde a sua apliação se adapta ao mercado sob a gestão de uma instituição financeira.
 
+O gestor pode alocar até 20% em investimentos mais arriscados. Assim podendo ter uma maior rentabilidade.
+
+Possui valor de investimento inicial menores.
+
 Podendo comprar diversos ativos ao mesmo tempo sem precisar compra-los separadamente. Onde possuí uma taxa de administração que o gerente da instituição financeira vai atuar para poder escolher os ativos de renda fixa que serão incluidos na carteira.
 
 Varia de acordo com o que é colocado no fundo de renda fixa (Normalmente são colocados majoritariamente titulos pre-fixados).
+
+Não são protegidos pelo FGC. E possui uma taxa de administração.
 
 ## Debentures
 O dinheiro é emprestado para uma empresa privada.
